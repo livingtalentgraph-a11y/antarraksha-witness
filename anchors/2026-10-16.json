@@ -58,5 +58,15 @@
     "anchor_payload_hash_sha256": "e0283a58298301351fddc40b095e590e998df53fc2804463f2059eb2d56d860b",
     "ed25519_signature_b64": "BzdxYjU0R7out1y/BsnWI3kJE67fBHUCjGV99EQMY+S4LrpFPRkFrouz1G8TGOwumPQiXHtSlrI3pENeo/ywCQ==",
     "signing_kid": "2026-Q1"
+  },
+  {
+    "anchor_version": "1.0.0",
+    "last_provenance_record_hash": "a519217b5b69ca56ed4b5447a2fe69e9e9b165e81337bc915fbd52266c789456",
+    "merkle_root": "43a9021bc293a721065dd9a7b73666b4c5eb8a60d6a7b1fabf89fe06e94c7756",
+    "timestamp_utc": "2026-10-16T05:29:31.640Z",
+    "total_certifications": 3,
+    "anchor_payload_hash_sha256": "10ea3c92f36594065a5d9a718ef72410ca05b1f83e16e411374cb1f08a78c5a4",
+    "ed25519_signature_b64": "+AZeKdeg2G1x/GnWnawGpuezDwOXJM8GU+lNyQSIEhCcfNDXJORUat61zSCWY/csimD8BUPENr2BY/olI5MFBg==",
+    "signing_kid": "2026-Q1"
   }
 ]
