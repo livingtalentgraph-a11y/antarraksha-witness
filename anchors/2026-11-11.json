@@ -1,0 +1,12 @@
+[
+  {
+    "anchor_version": "1.0.0",
+    "last_provenance_record_hash": "a519217b5b69ca56ed4b5447a2fe69e9e9b165e81337bc915fbd52266c789456",
+    "merkle_root": "43a9021bc293a721065dd9a7b73666b4c5eb8a60d6a7b1fabf89fe06e94c7756",
+    "timestamp_utc": "2026-11-11T14:27:58.609Z",
+    "total_certifications": 3,
+    "anchor_payload_hash_sha256": "ce3c157049be9eda05378d0544860b3d4020ae294f7b4513b1aa22bbbd9f7722",
+    "ed25519_signature_b64": "4VDzYIRTlH0Tqnjzi7KiD05cy0gtD7mA9bVaPfLQikIslzLk1pS/T0MRK6sIde/goPmwI2tC75omqNTA+/z/DQ==",
+    "signing_kid": "2026-Q1"
+  }
+]
